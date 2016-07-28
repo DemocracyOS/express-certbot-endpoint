@@ -1,0 +1,32 @@
+{
+  "name": "express-certbot-endpoint",
+  "version": "1.0.0",
+  "description": "Express middleware for Certbot manual cert generation validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemocracyOS/express-certbot-endpoint.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "letsencrypt",
+    "certbot",
+    "manual",
+    "endpoint",
+    "well-known",
+    "cert"
+  ],
+  "author": "mjlescano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DemocracyOS/express-certbot-endpoint/issues"
+  },
+  "homepage": "https://github.com/DemocracyOS/express-certbot-endpoint#readme",
+  "dependencies": {
+    "parseurl": "~1.3.1"
+  }
+}
