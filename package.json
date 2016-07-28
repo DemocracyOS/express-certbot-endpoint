@@ -1,7 +1,7 @@
 {
   "name": "express-certbot-endpoint",
   "version": "1.0.0",
-  "description": "Express middleware for Certbot manual cert generation validation",
+  "description": "Express middleware for Certbot manual cert generation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
